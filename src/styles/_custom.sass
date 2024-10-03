@@ -1,14 +1,22 @@
-.banner-principal-decorativo
+.banner-interno__fondo
+  background-image: url(../assets/curso/portada/banner-interno.png) !important
+
+  .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+    animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 4%
+    right: 70%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 17%
+    right: 17%
+  &-3
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 25%
+    right: 86%
 
 
 @keyframes float1
@@ -17,3 +25,271 @@
 
   100%
     transform: translateY(0px)
+
+.banner-principal .tarjeta 
+    background-size: cover
+    background-repeat: no-repeat
+    background-position: center
+
+.crd--avatarHorizontal-left-bgr1,
+.crd--avatarHorizontal-left-bgr2,
+.crd--avatarHorizontal-left-bgr3,
+.crd--avatarHorizontal-left-bgr4,
+.crd--avatarHorizontal-left-bgr5,
+.crd--avatarHorizontal-left-bgr6, 
+.crd--avatarHorizontal-left-borde-tarjeta
+  position: relative
+  align-items: stretch
+
+  &::before
+    position: absolute
+    content: ''
+    top: 0
+    right: 0
+    width: calc(100% - 60px)
+    height: 100%
+    background-color: #F6F6F6
+    border-radius: 10px
+
+.crd--avatarHorizontal-left-bgr1::before
+  background-color: #413253
+
+.crd--avatarHorizontal-left-bgr2::before
+  background-color: #872141
+
+.crd--avatarHorizontal-left-bgr3::before
+  background-color: #CCF9E6 
+
+.crd--avatarHorizontal-left-bgr4::before
+  background-color: #D9F3FF
+
+.crd--avatarHorizontal-left-bgr5::before
+  background-color: #FFE9DB
+
+.crd--avatarHorizontal-left-bgr6::before
+  background-color: #99F2CE
+.bloque-texto-f.color-acento-contenido:before
+  background-color: #ffffff
+  box-shadow: 4px 4px 6px -2px rgba(128, 128, 128, 16%)   
+
+.background-foto
+  background-image: url(../assets/curso/temas/tema1/img4.png) !important
+  background-repeat: no-repeat
+  background-size: contain !important
+  position: relative
+.background-foto-resp
+  background-image: url(../assets/curso/temas/tema1/img10.png) !important
+  background-repeat: no-repeat
+  background-size: contain !important
+  position: relative
+
+.background-foto-2
+  background-image: url(../assets/curso/temas/tema3/img7.png) !important
+  background-repeat: no-repeat
+  background-size: contain !important
+  position: relative
+
+.background-foto-3
+  background-image: url(../assets/curso/temas/tema3/img11.png) !important
+  background-repeat: no-repeat
+  background-size: cover !important
+  position: relative
+  padding: 2em
+
+.background-foto-4
+  background-image: url(../assets/curso/temas/tema5/img3.png) !important
+  background-repeat: no-repeat
+  background-size: contain !important
+  position: relative
+  padding: 2em
+
+.background-foto-5
+  background-image: url(../assets/curso/temas/tema6/img4.png) !important
+  background-repeat: no-repeat
+  background-size: contain !important
+  position: relative
+  padding: 2em
+
+.comillas
+  width: 80%
+  height: 100%
+  position: relative
+  top: 80px
+  
+.bloque-texto-f
+  width: 80%
+
+.titulo-icon
+  background: #972544
+  border-radius: 25px
+  padding: 10px
+  width: fit-content
+  padding-left: 2em
+  padding-right: 2em
+
+.bloque-texto-g.color-secundario 
+  background-color: #489191
+
+.caja
+  background-color: #972544
+  border-radius: 10px
+  width: 340px
+  height: 80px
+
+.tarjeta-foto
+  background-color: #413253
+  border-radius: 150px 150px 10px 10px
+  width: 295px
+  height: 415px
+  padding: 0.5em
+.tarjeta-foto-2
+  background-color: #972544
+  border-radius: 150px 150px 10px 10px
+  width: 295px
+  height: 415px
+  padding: 0.5em
+
+.hr-punteado 
+  border-top: 3px dotted #B0C0D2
+  background: transparent
+
+.tarjeta--gris 
+  background: #F3E8EB
+
+.cajon.color-secundario:before
+  background-color: #5BB7B7
+
+.tarjeta-numerada
+  min-height: 124px
+  align-content: center
+
+.tarjeta-numerada.color-acento-contenido2
+  border-color: #5BB7B7
+  
+.tarjeta-numerada__numero 
+  border-radius: 60px
+  background-color: #5BB7B7
+  width: 60px
+  height: 60px
+  display: inline-block
+  position: absolute
+  left: 0
+  top: 25px
+  transform: translateX(-50%)
+  
+.caja-2
+  background-color: #6C1A34
+  border-radius: 10px 0px 0px 10px
+  width: 500px
+  padding: 4em
+
+.caja-3
+  background-color: #931B3C
+  border-radius: 0px 10px 10px 0px
+  width: 500px
+  padding: 4em
+
+.crd1
+  background-color: #872141
+  height: 60px
+  width: fit-content
+  border-radius: 50px
+  align-content: center
+  padding-top: 0.4em
+.crd1-resp
+  background-color: #872141
+  height: 50px
+  width: 270px
+  border-radius: 50px
+  align-content: center
+  padding-top: 0.4em
+
+.titulo-img-resp
+  background-image: url(../assets/curso/temas/tema1/img6.svg) !important
+  position: relative
+  top: 10px
+  left: -23px
+  height: 100px
+  background-repeat: no-repeat
+
+.titulo-text-resp
+  position: relative
+  left: 70px
+  top: 12px
+.titulo-text-resp1
+  position: relative
+  left: 60px
+  top: 13px
+
+.crd1 
+  background-color: #8c1d38
+  border-radius: 30px
+  position: relative
+  display: flex
+  width: fit-content
+  align-items: center
+  height: 44px
+
+.titulo-img
+  background-image: url(../assets/curso/temas/tema1/img6.svg) !important
+  position: relative
+  top: 10px
+  left: -21px
+  height: 100px
+  background-repeat: no-repeat
+  
+.titulo-text
+  position: relative
+  left: 4px
+  top: 23px
+.titulo-text1
+  position: relative
+  left: 60px
+  top: 23px
+
+
+.half-overlap 
+  top: -25px
+  left: 10px
+
+.text-light 
+  color: white
+  font-weight: bold
+  margin-left: 60px
+  display: inline-block
+
+.card-cuerpo1
+  padding: 1em
+  background: #8c1d38
+  border-radius: 50px
+  width: fit-content
+
+.lista-ol--cuadro__vineta span 
+  position: absolute
+  top: 50%
+  left: -200%
+  transform: translate(-50%, -50%)
+  line-height: 1em
+
+.fuente
+  width: 98%
+
+.fondo-degradado
+  background-image: url(../assets/curso/temas/tema5/img6.svg)
+  padding: 1.8em
+  background-repeat: no-repeat
+  width: 100%
+  margin: 2em
+.fondo-degradado2
+  background-image: url(../assets/curso/temas/tema5/img7.svg)
+  padding: 1.8em
+  background-repeat: no-repeat
+  width: 100%
+  margin: 2em
+.fondo-degradado3
+  background-image: url(../assets/curso/temas/tema5/img8.svg)
+  padding: 1em
+  background-repeat: no-repeat
+  width: 100%
+  margin: 2em
+

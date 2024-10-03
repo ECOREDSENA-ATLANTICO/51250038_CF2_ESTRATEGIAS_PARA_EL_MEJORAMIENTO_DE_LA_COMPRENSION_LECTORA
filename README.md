@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecoredsena-atlantico.github.io/51250038_CF2_ESTRATEGIAS_PARA_EL_MEJORAMIENTO_DE_LA_COMPRENSION_LECTORA/#/](https://ecoredsena-atlantico.github.io/51250038_CF2_ESTRATEGIAS_PARA_EL_MEJORAMIENTO_DE_LA_COMPRENSION_LECTORA/#/)
 
 #
 

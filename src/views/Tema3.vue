@@ -26,7 +26,7 @@
           figure
             img.mb-3(src='@/assets/curso/temas/tema3/img2.png', alt='Imagen decorativa')
         .col-lg-8(data-aos="fade-left")
-          p Es un instrumento que facilita la comprensión o producción de un texto, en cuanto permite organizar la información gráficamente. El mapa conceptual permite representar relaciones conceptuales (jerárquicas, de clase, etc.) a través de la proposición de elementos claves (unidades sémicas) y conectores Esta estructura gráfica está compuesta por conceptos claves, los cuales se encierran en círculos o cuadros.
+          p Es un instrumento que facilita la comprensión o producción de un texto, en cuanto permite organizar la información gráficamente. El mapa conceptual permite representar relaciones conceptuales (jerárquicas, de clase, etc.) a través de la proposición de elementos claves (unidades sémicas) y conectores. Esta estructura gráfica está compuesta por conceptos claves, los cuales se encierran en círculos o cuadros.
           b En relación con estos conceptos podemos encontrar tres tipos:
           ul.ms-5.mt-3
             li(style="list-style-type: disc; color: #BD2F56")
@@ -163,7 +163,7 @@
           img(src='@/assets/curso/temas/tema3/img8.png', alt='Imagen decorativa')
         .row.justify-content-center
           .col-lg-10.col-md-8
-           p.text-center.my-3 <strong>Ejemplo de mapa</strong>
+           p.text-center.my-3 <strong>Ejemplo de mapa mental</strong>
            img(data-aos="flip-up")(src='@/assets/curso/temas/tema3/img9.svg', alt='se presenta unaestructura gráfica que refleja las ideas principales entorno a un tema, mediante relaciones y combinacionesde formas, colores y dibujos.')
       
       .row.align-items-center.my-5.ms-2(data-aos="fade-left").d-lg-block.d-none
@@ -182,7 +182,8 @@
         .col-lg-8(data-aos="fade-left")
           .cajon.color-secundario.p-4.mb-3(style="background: #CDE9E9")
             p.mt-0.mb-0 Es una representación gráfica que da cuenta de los elementos constitutivos de los textos narrativos. Según Vilches (1984), este esquema interrelaciona todos los sucesos, en particular, del momento informativo, la noticia. No obstante, la estructura informativa es útil, también, para sintetizar cuentos, novelas, fábulas, entre otros.
-          ol.lista-ol--cuadro
+          b ¿Cómo se hace?
+          ol.lista-ol--cuadro.mt-2
             li(style="display: flex; align-items: flex-start;") 
               .lista-ol--cuadro__vineta(style="background: #BD2F56; color: black")
                 span.text-light 1
@@ -248,23 +249,27 @@
           caption.text-center Nota: SENA
           thead.text-center(style="background: #FFF0F4; border-top: solid #BD2F56 5px")
             tr
-              th Recursos
-              th Descripción
-              th Ejemplo
+              th Elementos
+              th Variable 1
+              th Variable 2
+              th Variable 3
           tbody
             tr
-              td.text-center <strong>Metáfora</strong>
-              td Se define o se alude a algo en términos diferentes a su ‘naturaleza’: “surge de la inserción en un determinado contexto de una nota que proviene de otro distinto (Lakoff & Johnson, 1980, p. 11).
-              td Miguel es una gacela (gacela = rápido).<br>Las cosas van muy bien. Estamos en el pico de la montaña.<br>(Altura = triunfo).
+              td.text-center <strong>Elemento 1</strong>
+              td
+              td
+              td
             tr
-              td.text-center <strong>Hipérbole</strong>
-              td Se exagera una situación o las características de algo.
-              td ¡Casi muero de la alegría!<br>¡Es tan rápido como un avión!
+              td.text-center <strong>Elemento 2</strong>
+              td
+              td
+              td
             tr
-              td.text-center <strong>Ironía</strong>
-              td Se da a entender lo contrario a lo que se dice. Viene del griego <em>eirōneía</em>, que significa ‘ignorancia fingida’.
-              td Su cuerpo escultural es lo que más me gusta (es una persona obesa).<br>¡Qué buen apunte! (cuando dijo algo absurdo). 
-      
+              td.text-center <strong>Elemento 3</strong>
+              td
+              td
+              td
+            
       .row.align-items-center.my-5(data-aos='fade-left')
         .col-lg-7
           .row.align-items-center.crd1(position="relative")

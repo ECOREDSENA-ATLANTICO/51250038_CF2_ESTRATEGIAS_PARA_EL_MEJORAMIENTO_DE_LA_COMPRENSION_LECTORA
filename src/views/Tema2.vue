@@ -78,7 +78,7 @@
           tbody
             tr
               td.text-center <strong>Metáfora</strong>
-              td Se define o se alude a algo en términos diferentes a su ‘naturaleza’: “surge de la inserción en un determinado contexto de una nota que proviene de otro distinto (Lakoff & Johnson, 1980, p. 11).
+              td Se define o se alude a algo en términos diferentes a su ‘naturaleza’: surge de la inserción en un determinado contexto de una nota que proviene de otro distinto (Lakoff & Johnson, 1980, p. 11).
               td Miguel es una gacela (gacela = rápido).<br>Las cosas van muy bien. Estamos en el pico de la montaña.<br>(Altura = triunfo).
             tr
               td.text-center <strong>Hipérbole</strong>

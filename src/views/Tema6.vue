@@ -44,7 +44,7 @@
               .bloque-texto-f__comillas
                 i.fas.fa-quote-left
                 i.fas.fa-quote-right
-              h4.p-4.text-regular.bloque-texto-f__texto resulta evidente que sólo la posible aportación del lector hace ‘interpretable’ un texto, es decir lo hace comprensible y le atribuye una intencionalidad. Cuando se desconoce la procedencia de las distintas citas o alusiones, la comprensión puede resultar errónea o inadecuada y, en consecuencia, también su interpretación.
+              h4.p-4.text-regular.bloque-texto-f__texto Resulta evidente que sólo la posible aportación del lector hace ‘interpretable’ un texto, es decir lo hace comprensible y le atribuye una intencionalidad. Cuando se desconoce la procedencia de las distintas citas o alusiones, la comprensión puede resultar errónea o inadecuada y, en consecuencia, también su interpretación.
               .bloque-texto-f__autor.mb-3
                 h4.mb-0 Mendoza, 2008a, Cap. 3, párr. 6
       .row.align-items-center(data-aos='fade-left').d-lg-block.d-none

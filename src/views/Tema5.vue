@@ -11,12 +11,12 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema5/img1.png')})`}")
           .bloque-texto-g__texto.p-4
             p Los textos se realizan con fines determinados. No existe acto del lenguaje neutro o desinteresado, más aún si se planifica y expresa por medio de la palabra escrita. Por esta razón, una de las últimas actividades en el proceso de lectura es identificar la intención comunicativa del texto.
-      .row.justify-content-center
-        .col-lg-3
-          p.fondo-degradado.text-light.text-center ¿Qué se dice?
-        .col-lg-3
-          p.fondo-degradado2.text-light.text-center ¿Qué se quiere decir?
-        .col-lg-3
+      .row.justify-content-center.my-4
+        .col-lg-3.col-md-8
+          p.pt-4.fondo-degradado.text-light.text-center ¿Qué se dice?
+        .col-lg-3.col-md-8
+          p.pt-4.fondo-degradado2.text-light.text-center ¿Qué se quiere decir?
+        .col-lg-3.col-md-8
           p.fondo-degradado3.text-light.text-center ¿Cuál es la finalidad?<br>¿Para qué se dice?
   
       p.my-3 Para rastrear los propósitos del texto, el lector debe evaluar el contenido y el sentido de las líneas. El proceso de interpretación de intenciones es complejo, y puede resumirse, de acuerdo con Tusón y Unamundo (1999), de la siguiente forma:
@@ -35,8 +35,8 @@
           img(src="@/assets/curso/temas/tema5/img9.png")
           p.text-center Matador. (2010, octubre 28). Nuestra droga legal [Caricatura]. Matador Cartoons.
         .col-lg-7
-          p Las intenciones comunicativas que se persiguen a través de los textos pueden ser: criticar, convencer, informar, disuadir, expresar inconformismo, etc. Frente a estos propósitos, el lector tiene un rol activo en cuanto valora el texto y los recursos que el autor pone en juego para lograr su cometido. Veamos un ejemplo:
-          p.my-4(style="color: #972544") <strong>Veamos un ejemplo:</strong>
+          p Las intenciones comunicativas que se persiguen a través de los textos pueden ser: criticar, convencer, informar, disuadir, expresar inconformismo, etc. Frente a estos propósitos, el lector tiene un rol activo en cuanto valora el texto y los recursos que el autor pone en juego para lograr su cometido.
+          p.my-4(style="color: #972544") <strong>A continuación:</strong>
           p.mb-0 <strong>¿Qué quiere decir el texto?</strong>
           p.mb-0 Una lectura inferencial deja entrever los siguientes implícitos:
           ul.ms-4.mb-2
@@ -56,36 +56,7 @@
               span(style="color: #12263F") Los dineros públicos son abundantes, pero no infinitos.
             li(style="list-style-type: disc; color: #BD2F56")
               span(style="color: #12263F") Expresar inconformismo con respecto a la gestión de los dineros públicos.
-  
-  
-  
-      .div.background-foto-5.p-5
-        .row.justify-content-center
-          .col-lg-5.caja-2.me-0.mb-3
-            .row.justify-content-center
-              .col-lg-5.col-md-8
-                img(src="@/assets/curso/temas/tema5/img4.png")
-            p.text-light.text-center.m-2(style="font-size: 24px") <strong>¿Qué quiere decir el texto?</strong>
-            p.text-light.m-1 Una lectura inferencial deja entrever los siguientes implícitos:
-            ul.m-2.ms-4
-              li(style="list-style-type: disc; color: #F4AB5D")
-                span(style="color: white") La corrupción tiene forma de hombre, posiblemente político o funcionario público.
-              li(style="list-style-type: disc; color: #F4AB5D")
-                span(style="color: white") Los dineros públicos son abundantes, pero no infinitos.
-              li(style="list-style-type: disc; color: #F4AB5D")
-                span(style="color: white") Los corruptos hacen uso de los dineros públicos a su antojo.
-          .col-lg-5.caja-3.ms-0.mb-3
-            .row.justify-content-center
-              .col-lg-5.col-md-8
-                img(src="@/assets/curso/temas/tema5/img5.png")
-            p.text-light.text-center.m-2(style="font-size: 24px") <strong>¿Cuál es la intención del autor?</strong>
-            p.text-light.m-1 El autor de este texto es matador, un reconocido caricaturista colombiano. Sus propósitos pueden ser:
-            ul.m-2.ms-4
-              li(style="list-style-type: disc; color: #F4AB5D")
-                span(style="color: white") Denunciar la forma como se despilfarran los dineros públicos.
-              li(style="list-style-type: disc; color: #F4AB5D")
-                span(style="color: white") Expresar inconformismo con respecto a la gestión de los dineros públicos.
-  
+
 </template>
 
 <script>

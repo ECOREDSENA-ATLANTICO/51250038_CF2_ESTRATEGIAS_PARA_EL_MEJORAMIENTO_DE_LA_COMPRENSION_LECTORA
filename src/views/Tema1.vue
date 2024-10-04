@@ -93,7 +93,7 @@
               img(src="@/assets/curso/temas/tema1/img9.png", alt='')
             p.text-center Quino. Mafalda, tomo 1. Ediciones de la Flor, 1966, Caricatura No. 21.
           .row  
-            p.my-1.text-center <strong>¿Qué se dice en la historia sobre las personas que trabajan en el gobierno? (dos respuestas)</strong>
+            p.my-1.text-center <strong>¿Qué se dice en la historia sobre las personas que trabajan en el gobierno?</strong>
           .row.justify-content-center
             .col-lg-5.caja.p-3.m-1
                 .row.align-items-center

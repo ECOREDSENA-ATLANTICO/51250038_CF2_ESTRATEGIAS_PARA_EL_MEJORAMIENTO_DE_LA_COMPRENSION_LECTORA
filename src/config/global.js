@@ -108,7 +108,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/51250038_CF02_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -173,47 +173,49 @@ export default {
     {
       referencia:
         'Cassany, D. (2006). Tras las líneas: sobre la lectura contemporánea. Barcelona, España: Anagrama.',
-      link: '',
+      link:
+        'https://media.utp.edu.co/referencias-bibliograficas/uploads/referencias/libro/295-tras-las-lneaspdf-WB5V4-articulo.pdf',
     },
     {
       referencia:
         'Cassany. D. (2003). Aproximaciones a la lectura crítica: teoría,ejemplos y reflexiones. Tarbiya, Revista deinvestigación en innovación educativa del Instituto Universitario de Ciencias de la Educación 32, 113 - 132.',
-      link: '',
+      link: 'https://revistas.uam.es/tarbiya/article/download/7275/7623/15205',
     },
     {
       referencia:
         'Casamiglia, H., & Tusón, A. (2001). Las cosas del decir. Manual de análisis del discurso. Barcelona, España:Editorial Ariel.',
-      link: '',
+      link:
+        'https://universitas82.wordpress.com/wp-content/uploads/2013/08/las-cosas-del-decir.pdf',
     },
     {
       referencia:
         'Iser, W. (1987). El proceso de lectura; enfoque fenomenológico. Estética de la recepción (149-164) Mayoral, J.(comp.). Madrid, España: Arco.',
-      link: '',
+      link:
+        'https://perio.unlp.edu.ar/catedras/wp-content/uploads/sites/135/2020/05/iser._el_proceso_de_lectura.pdf',
     },
     {
       referencia:
         'Mendoza, A. (2008). El intertexto lector. Biblioteca Virtual Miguel de Cervantes.',
-      link: '',
-    },
-    {
-      referencia:
-        'Mendoza, A. (2008). Función de la literatura infantil y juvenil en la formación de la competencia literaria.Biblioteca Virtual Miguel de Cervantes.',
-      link: '',
+      link:
+        'https://www.cervantesvirtual.com/obra/funcin-de-la-literatura-infantil-y-juvenil-en-la-formacin-de-la-competencia-literaria-0/',
     },
     {
       referencia:
         'Olson, D. (1998). El mundo sobre el papel. Barcelona, España: Gedisa.',
-      link: '',
+      link:
+        'https://lecturayescrituraunrn.wordpress.com/wp-content/uploads/2016/02/olson-el-mundo-sobre-el-papel.pdf',
     },
     {
       referencia:
         'Ontoria, A., Gómez, J., & Molina, A. (2000). Potenciar la capacidad de aprender y pensar (2ª ed.). Madrid,España: Narcea.',
-      link: '',
+      link:
+        'https://www.terras.edu.ar/biblioteca/3/3GOMEZ-Juan-MOLINA-RUBIO-Ana-ONTORIA-PENA-Antonio-cap7.pdf',
     },
     {
       referencia:
         'Vilches, Lorenzo. (1984). La lectura de la imagen. Buenos Aires, Argentina: Editorial Paidós.',
-      link: '',
+      link:
+        'https://amsafe.org.ar/wp-content/uploads/Vilches-La_lectura_de_la_imagenpdf.pdf',
     },
   ],
   creditos: [

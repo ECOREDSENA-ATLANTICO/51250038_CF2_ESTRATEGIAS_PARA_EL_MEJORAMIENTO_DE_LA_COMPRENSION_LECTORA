@@ -7,6 +7,7 @@
           span 4
         h1(data-aos='fade-left') Actividad de afianzamiento
       
+      p Lea el siguiente texto. Luego, resúmalo mediante el instrumento de lectura propuesto.
       .row.align-items-center.ms-2.my-5(data-aos='fade-left')
         .col-lg-7
           .row.align-items-center.crd1(position="relative")

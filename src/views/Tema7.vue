@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 7
-      h1(data-aos='fade-left') Construyendo una postura critica
+      h1(data-aos='fade-left') Construyendo una postura crítica
     .row.justify-content-center.my-3.mb-4
       .col-lg-7(data-aos='fade-right')
         p.mb-3 La postura crítica está en permanente construcción. Se alimenta de las informaciones que cotidianamente percibimos mediante los sentidos. La criticidad consiste en distinguir hechos de opiniones. Es valorar y evaluar el discurso a partir de intereses, creencias, ideologías y sentimientos personales.<br>En este sentido, se pueden establecer acuerdos, puntos intermedios o desacuerdos frente a las ideas que expone el autor.
@@ -14,7 +14,7 @@
           .bloque-texto-b__texto
             i.fas.fa-quote-left
             p.mb-0 <strong>La lectura crítica es el único procedimiento didáctico que fortalece el crecimiento de un yo autónomo, consciente y constructivo, con opiniones propias y con capacidad de compromiso con la comunidad </strong>
-            p Cassany, 2003, p. 129
+            p (Cassany, 2003, p. 129).
             i.fas.fa-quote-right
       .col-lg-5.col-md-8(data-aos='fade-left')
         img(src="@/assets/curso/temas/tema7/img1.png")

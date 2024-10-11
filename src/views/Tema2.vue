@@ -22,7 +22,7 @@
               .bloque-texto-f__comillas
                 i.fas.fa-quote-left
                 i.fas.fa-quote-right
-              h4.p-4.text-regular.bloque-texto-f__texto La ironía, el sarcasmo, el sobreentendido y la hipérbole son casos en los cuales lo que el hablante quiere decir difiere del significado del enunciado convencionalmente expresado […] estas figuras del discurso son ‘literalmente falsas’.
+              h4.p-4.text-regular.bloque-texto-f__texto La ironía, el sarcasmo, el sobreentendido y la hipérbole son casos en los cuales lo que el hablante quiere decir difiere del significado del enunciado convencionalmente expresado […] estas figuras del discurso son literalmente falsas’.
               .bloque-texto-f__autor.mb-3
                 h3.mb-0 Olson, 1998, p. 156
               .bloque-texto-f__avatar

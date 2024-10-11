@@ -117,12 +117,12 @@
             li(style="display: flex; align-items: flex-start;") 
               .lista-ol--cuadro__vineta(style="background: #BD2F56; color: black")
                 span.text-light 2
-              span El tema principal en texto o imagen va en el centro, coloreado
+              span El tema principal en texto o imagen va en el centro, coloreado.
             .hr-punteado.mb-3
             li(style="display: flex; align-items: flex-start;") 
               .lista-ol--cuadro__vineta(style="background: #BD2F56; color: black")
                 span.text-light 3
-              span Las ideas principales deben ir con letra más grande que las ideas secundarias; éstas se sitúan en una rama que sale del centro y se sintetizan en palabras clave.
+              span Las ideas principales deben ir con letra más grande que las ideas secundarias; estas se sitúan en una rama que sale del centro y se sintetizan en palabras clave.
             .hr-punteado.mb-3
             li(style="display: flex; align-items: flex-start;") 
               .lista-ol--cuadro__vineta(style="background: #BD2F56; color: black")
@@ -161,54 +161,11 @@
             .hr-punteado.mb-3
         .col-lg-4.col-md-8(data-aos="fade-left")
           img(src='@/assets/curso/temas/tema3/img8.png', alt='Imagen decorativa')
-        
-        .row.justify-content-center(data-aos="fade-up")
-          .col-lg-8
-            LineaTiempoD.color-secundario.mt-3
-              .row(numero="1" titulo="Árbol")
-                .col-md-12.mb-4.mb-md-0
-                  p.text-small Tome como referencia la imagen del árbol, con su tronco, raíces y ramas. 
-    
-              .row(numero="2" titulo="Tema")
-                .col-md-12.mb-4.mb-md-0
-                  p.text-small El tema principal en texto o imagen va en el centro, coloreado.
-                  
-              .row(numero="3" titulo="Ideas principales")
-                .col-md-12.mb-4.mb-md-0
-                p.text-small Determine los elementos relacionados con el concepto central.
-    
-              .row(numero="4" titulo="Ideas secundarias")
-                .col-md-12.mb-4.mb-md-0
-                p.text-small Las ideas secundarias salen de la rama principal. No hay límite de ramificaciones.Se recomienda escribir una palabra por línea. Cada palabra encierra un grannúmero de asociaciones.
-    
-              .row(numero="5" titulo="Palabras")
-                .col-md-12.mb-4.mb-md-0
-                p.text-smallLas palabras deben ir siempre en letra de imprenta, es decir, mayúsculas ominúsculas o combinando ambas.  
-    
-              .row(numero="6" titulo="Dibujo")
-                .col-md-12.mb-4.mb-md-0
-                p.text-small El dibujo o los colores sirven para destacar los distintos elementos que facilitan lamemorización, mientras que las flechas sirven para unir las líneas relacionadas.
-    
-              .row(numero="7" titulo="Línea")
-                .col-md-12.mb-4.mb-md-0
-                p.text-small Las palabras deben escribirse siempre sobre las líneas.
-    
-              .row(numero="8" titulo="Longitud")
-                .col-md-12.mb-4.mb-md-0
-                p.text-small Las líneas deben estar vinculadas entre sí. Las líneas deben tener la mismalongitud que la palabra o la imagen.
-    
-              .row(numero="9" titulo="Imágenes")
-                .col-md-12.mb-4.mb-md-0
-                p.text-small Usar todas las imágenes posibles.
-    
-              .row(numero="10" titulo="Códigos")
-                .col-md-12.mb-4.mb-md-0
-                p.text-small Emplear números o códigos para ordenar los elementos, o mostrar conexionesentre ellos.
-        
-      .row.justify-content-center
-        .col-lg-10.col-md-8
-          p.text-center.my-3 <strong>Ejemplo de mapa mental</strong>
-          img(data-aos="flip-up")(src='@/assets/curso/temas/tema3/img9.svg', alt='se presenta unaestructura gráfica que refleja las ideas principales entorno a un tema, mediante relaciones y combinacionesde formas, colores y dibujos.')
+        .row.justify-content-center
+          .col-lg-10.col-md-8
+            p.text-center.my-3 <strong>Ejemplo de mapa mental</strong>
+            p Figura 1.
+            img(data-aos="flip-up")(src='@/assets/curso/temas/tema3/img9.svg', alt='se presenta unaestructura gráfica que refleja las ideas principales entorno a un tema, mediante relaciones y combinacionesde formas, colores y dibujos.')
       
       .row.align-items-center.my-5.ms-2(data-aos="fade-left").d-lg-block.d-none
         .col-lg-7

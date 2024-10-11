@@ -35,7 +35,7 @@
           img(src="@/assets/curso/temas/tema5/img9.png")
           p.text-center Matador. (2010, octubre 28). Nuestra droga legal [Caricatura]. Matador Cartoons.
         .col-lg-7
-          p Las intenciones comunicativas que se persiguen a través de los textos pueden ser: criticar, convencer, informar, disuadir, expresar inconformismo, etc. Frente a estos propósitos, el lector tiene un rol activo en cuanto valora el texto y los recursos que el autor pone en juego para lograr su cometido.
+          p Las intenciones comunicativas que se persiguen a través de los textos pueden ser: críticar, convencer, informar, disuadir, expresar inconformismo, etc. Frente a estos propósitos, el lector tiene un rol activo en cuanto valora el texto y los recursos que el autor pone en juego para lograr su cometido.
           p.my-4(style="color: #972544") <strong>A continuación:</strong>
           p.mb-0 <strong>¿Qué quiere decir el texto?</strong>
           p.mb-0 Una lectura inferencial deja entrever los siguientes implícitos:

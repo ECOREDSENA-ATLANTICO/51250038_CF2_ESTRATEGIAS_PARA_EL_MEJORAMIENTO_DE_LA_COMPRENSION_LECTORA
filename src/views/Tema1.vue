@@ -7,8 +7,8 @@
           span 1
         h1(data-aos="fade-left") El proceso de la comprensión
       .cajon.color-secundario.p-4(style="background: #CDE9E9")
-        p.mt-0.mb-0 Para iniciar, se define el proceso de comprensión y el papel del lector en la construcción de significados. Luego,se descubren los recursos discursivos que se emplean en el texto para disfrazar el lenguaje. Por último, sepresentan algunos instrumentos que facilitan la comprensión textual, tales como, el mapa conceptual, el mapamental, la estructura informativa, el paralelo gráfico y la red argumentativa. Seguramente, alguna vez usted haempleado una o todas estas herramientas.
-      p.my-3(data-aos="fade-right") Luego de descodificar el texto, o simultáneamente, está el proceso de comprensión, el cual consiste en recuperar el sentido a partir de inferencias y demás actividades analíticas. El sentido no está dado unívocamente en el texto, sino es el resultado de la interacción entre el texto y el lector, quien descifra las pistas en el código mediante procesos de pensamiento. Es decir, el lector completa el sentido del texto, haciendo uso de sus conocimientos y experiencias. A continuación:
+        p.mt-0.mb-0 Para iniciar, se define el proceso de comprensión y el papel del lector en la construcción de significados. Luego, se descubren los recursos discursivos que se emplean en el texto para disfrazar el lenguaje. Por último, se presentan algunos instrumentos que facilitan la comprensión textual, tales como, el mapa conceptual, el mapa mental, la estructura informativa, el paralelo gráfico y la red argumentativa. Seguramente, alguna vez usted ha empleado una o todas estas herramientas.
+      p.my-3(data-aos="fade-right") Luego de descodificar el texto, o simultáneamente, está el proceso de comprensión, el cual consiste en recuperar el sentido a partir de inferencias y demás actividades analíticas. El sentido no está dado unívocamente en el texto, si no es el resultado de la interacción entre el texto y el lector, quien descifra las pistas en el código mediante procesos de pensamiento. Es decir, el lector completa el sentido del texto, haciendo uso de sus conocimientos y experiencias. A continuación:
       
       figure
         img(data-aos="flip-up")(src="@/assets/curso/temas/tema1/img1.png", alt="")
@@ -40,9 +40,7 @@
         .row.align-items-center.p-3.m-auto.justify-content-center
           .bloque-texto-f.color-acento-contenido.pt-4.px-2
             .bloque-texto-f__comillas
-              i.fas.fa-quote-left
-              i.fas.fa-quote-right
-            h4.p-4.text-regular.bloque-texto-f__texto Un buen lector va más allá de las palabras; reconoce la propuesta del autor y los implícitos en el texto. Esta tarea es la esencia de la lectura, aunque en muchos casos no sea fácil de lograr: “[…] el lector sólo obtiene satisfacción cuando pone en juego su productividad, y ello sólo ocurre cuando el texto ofrece la posibilidad de ejercitar nuestras capacidades”.
+            h4.p-4.text-regular.bloque-texto-f__texto Un buen lector va más allá de las palabras; reconoce la propuesta del autor y los implícitos en el texto. Esta tarea es la esencia de la lectura, aunque en muchos casos no sea fácil de lograr: “[…] el lector solo obtiene satisfacción cuando pone en juego su productividad, y ello solo ocurre cuando el texto ofrece la posibilidad de ejercitar nuestras capacidades”.
             .bloque-texto-f__autor.mb-3
               h3.mb-0 (Iser, 1987, p. 150).
             .bloque-texto-f__avatar
@@ -93,7 +91,7 @@
               img(src="@/assets/curso/temas/tema1/img9.png", alt='')
             p.text-center Quino. Mafalda, tomo 1. Ediciones de la Flor, 1966, Caricatura No. 21.
           .row  
-            p.my-1.text-center <strong>¿Qué se dice en la historia sobre las personas que trabajan en el gobierno?</strong>
+            p.my-1.text-center <strong>¿Qué se dice en la historieta sobre las personas que trabajan en el gobierno?</strong>
           .row.justify-content-center
             .col-lg-5.caja.p-3.m-1
                 .row.align-items-center

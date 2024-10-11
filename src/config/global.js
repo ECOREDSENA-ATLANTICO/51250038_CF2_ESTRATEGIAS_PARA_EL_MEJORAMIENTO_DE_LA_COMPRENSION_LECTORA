@@ -3,7 +3,7 @@ export default {
     componenteFormativo:
       'Intenciones comunicativas en diferentes tipos de textos',
     descripcionCurso:
-      'En esta actividad de aprendizaje, "leer entre líneas" significa interpretar un texto a partir de conocimientos previos y experiencias, lo que permite descubrir elementos que el autor no expresa explícitamente. Además, se utilizan herramientas para fortalecer tanto la comprensión como las habilidades lectoras. Por otro lado, "leer detrás de las líneas" implica interpretar el texto identificando los propósitos del autor y situándolo en su contexto. Esto requiere una valoración crítica, donde el conocimiento del lector y el contexto histórico juegan un papel crucial.',
+      'En esta actividad de aprendizaje, “leer entre líneas” significa interpretar un texto usando conocimientos previos y experiencias, descubriendo lo que el autor oculta y utilizando herramientas para fortalecer la comprensión y las habilidades lectoras, y leer detrás de las líneas es interpretar el texto identificando los propósitos del autor y contextualizando. Implica una valoración crítica, donde el conocimiento del lector y el contexto histórico juegan un papel crucial.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
     imagenesDecorativasBanner: [
@@ -73,7 +73,7 @@ export default {
       {
         nombreRuta: 'tema7',
         numero: '7',
-        titulo: 'Construyendo una postura critica',
+        titulo: 'Construyendo una postura crítica',
         desarrolloContenidos: true,
       },
     ],
@@ -124,7 +124,7 @@ export default {
   },
   complementario: [
     {
-      tema: 'Proceso decompresión lectora',
+      tema: 'Proceso de compresión lectora',
       referencia: 'Ecosistema recursoseducativos (2021). SENA[Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=E9Fi9mE-Pas',
@@ -177,6 +177,18 @@ export default {
         'https://media.utp.edu.co/referencias-bibliograficas/uploads/referencias/libro/295-tras-las-lneaspdf-WB5V4-articulo.pdf',
     },
     {
+      referencia: 'Lakoff & Johnson, 1980, p.',
+      link: '',
+    },
+    {
+      referencia: '(Casmiglia & Tusón, 2001, p.178).',
+      link: '',
+    },
+    {
+      referencia: 'Tusón y Unamundo (1999).',
+      link: '',
+    },
+    {
       referencia:
         'Cassany. D. (2003). Aproximaciones a la lectura crítica: teoría,ejemplos y reflexiones. Tarbiya, Revista deinvestigación en innovación educativa del Instituto Universitario de Ciencias de la Educación 32, 113 - 132.',
       link: 'https://revistas.uam.es/tarbiya/article/download/7275/7623/15205',
@@ -195,7 +207,7 @@ export default {
     },
     {
       referencia:
-        'Mendoza, A. (2008). El intertexto lector. Biblioteca Virtual Miguel de Cervantes.',
+        'Mendoza, A. (2008). Función de la literatura infantil y juvenil en la formación de la competencia literaria / Antonio Mendoza Fillola. Biblioteca Virtual Miguel de Cervantes.',
       link:
         'https://www.cervantesvirtual.com/obra/funcin-de-la-literatura-infantil-y-juvenil-en-la-formacin-de-la-competencia-literaria-0/',
     },

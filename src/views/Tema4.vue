@@ -31,7 +31,7 @@
           img(src='@/assets/curso/temas/tema4/img2.png', alt='Imagen decorativa')
       figure
       img(src='@/assets/curso/temas/tema4/img3.svg', alt='Imagen que contiene 2 listados para relacionar. Se muestra a continuación.')
-      p.text-center <a href="https://zajuna.sena.edu.co/Repositorio/Complementaria/institution/SENA/CienciasSociales/51250038/Contenido/OVA/actividad_aprendizaje_3/contenidos/index.html">scribd.</a>
+      p.text-center <a href="https://zajuna.sena.edu.co/Repositorio/Complementaria/institution/SENA/CienciasSociales/51250038/Contenido/OVA/actividad_aprendizaje_3/contenidos/index.html">Actividad.</a>
   </template>
 
 <script>

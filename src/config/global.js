@@ -177,21 +177,19 @@ export default {
         'https://media.utp.edu.co/referencias-bibliograficas/uploads/referencias/libro/295-tras-las-lneaspdf-WB5V4-articulo.pdf',
     },
     {
-      referencia: 'Lakoff & Johnson, 1980, p.',
+      referencia: 'Lakoff & Johnson, 1980, p. Metaphors We Live.',
       link: '',
     },
     {
-      referencia: '(Casmiglia & Tusón, 2001, p.178).',
-      link: '',
-    },
-    {
-      referencia: 'Tusón y Unamundo (1999).',
+      referencia:
+        'Tusón, A., & Unamuno, V. (1999). ¿De quien estamos hablando? El malentendido en el discurso escolar. Revista iberoamericana de discurso y sociedad, 1(1), 19-34.',
       link: '',
     },
     {
       referencia:
         'Cassany. D. (2003). Aproximaciones a la lectura crítica: teoría,ejemplos y reflexiones. Tarbiya, Revista deinvestigación en innovación educativa del Instituto Universitario de Ciencias de la Educación 32, 113 - 132.',
-      link: 'https://revistas.uam.es/tarbiya/article/download/7275/7623/15205',
+      link:
+        'https://www.textosenlinea.com.ar/academicos/Calsamiglia%20y%20Tuson%20-%20Las%20cosas%20del%20decir.%20Manual%20de%20analisis%20del%20discurso.pdf',
     },
     {
       referencia:

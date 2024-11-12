@@ -162,9 +162,8 @@
         .col-lg-4.col-md-8(data-aos="fade-left")
           img(src='@/assets/curso/temas/tema3/img8.png', alt='Imagen decorativa')
         .row.justify-content-center
-          .col-lg-10.col-md-8
-            p.text-center.my-3 <strong>Ejemplo de mapa mental</strong>
-            p Figura 1.
+          .col-lg-10.col-md-8.my-3
+            p Figura 1. Ejemplo de mapa mental
             img(data-aos="flip-up")(src='@/assets/curso/temas/tema3/img9.svg', alt='se presenta unaestructura gráfica que refleja las ideas principales entorno a un tema, mediante relaciones y combinacionesde formas, colores y dibujos.')
       
       .row.align-items-center.my-5.ms-2(data-aos="fade-left").d-lg-block.d-none

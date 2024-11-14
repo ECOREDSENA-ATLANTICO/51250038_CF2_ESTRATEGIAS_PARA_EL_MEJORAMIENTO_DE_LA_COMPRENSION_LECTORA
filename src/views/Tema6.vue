@@ -5,68 +5,40 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 6
-      h1(data-aos='fade-left') Proceso de interpretación
-    .row.justify-content-center.my-3
-      .col-lg-5.col-md-8(data-aos='fade-right')
-        img.mb-3(src="@/assets/curso/temas/tema6/img1.png")
-      .col-lg-7(data-aos='fade-left')
-        p.mb-3 Luego de realizar las inferencias correspondientes e identificar las intenciones comunicativas, el lector atribuye una valoración personal a lo expuesto en el texto (Mendoza, 2008). No todo lo que está escrito adquiere estatus de ‘verdad’; tan solo refleja acercamientos personales a una realidad cambiante.
-        p.my-3 El lector:
+      h1(data-aos='fade-left') Construyendo una postura crítica
+    .row.justify-content-center.my-3.mb-4
+      .col-lg-7(data-aos='fade-right')
+        p.mb-3 La postura crítica está en permanente construcción. Se alimenta de las informaciones que cotidianamente percibimos mediante los sentidos. La criticidad consiste en distinguir hechos de opiniones. Es valorar y evaluar el discurso a partir de intereses, creencias, ideologías y sentimientos personales.<br>En este sentido, se pueden establecer acuerdos, puntos intermedios o desacuerdos frente a las ideas que expone el autor.
+        p.my-3 La toma de una postura crítica es la última actividad en el proceso de lectura, antecedida, necesariamente, por la recuperación: del sentido, de la intención comunicativa y del contexto. Después de leer críticamente un texto, nada vuelve a ser como antes: las opiniones y las actitudes se transforman, el discurso se enriquece…es momento de compartir experiencias: 
         .bloque-texto-b.p-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            p.mb-0 <strong>asume el rol de crítico o analista del texto, con la competencia crítica. Se pone énfasis en el hecho de que el texto representa un punto de vista parcial, no es neutro e influye en el lector. Incluye la identificación de valores, actitudes, opiniones e ideologías, y la construcción de alternativas. </strong>
-            p Cassany, 2006, p. 84
+            p.mb-0 <strong>La lectura crítica es el único procedimiento didáctico que fortalece el crecimiento de un yo autónomo, consciente y constructivo, con opiniones propias y con capacidad de compromiso con la comunidad </strong>
+            p (Cassany, 2003, p. 129).
             i.fas.fa-quote-right
+      .col-lg-5.col-md-8(data-aos='fade-left')
+        img(src="@/assets/curso/temas/tema7/img1.png")
     
-    .cajon.color-secundario.p-4.my-5(style="background: #CDE9E9")
-      h5.mb-0 ¿En qué consiste la interpretación?
-      p.mt-0.mb-0 La interpretación consiste en contextualizar y evaluar el texto en función de las condiciones sociohistóricas que le dieron origen. Interpretar es identificar en el texto, además de las intenciones, las ideologías, las creencias y los puntos de vista del autor: es distinguir entre hechos y opiniones...es leer detrás de las líneas. En este proceso el Inter texto lector juega un rol determinante.
+    .cajon.color-secundario.p-4.mb-3(style="background: #CDE9E9")(data-aos='fade-up')
+      p.mt-0.mb-0 Construir posturas críticas y compartirlas enriquece el proceso lector, de aprendizaje y de socialización. Siguiendo con Cassany (2003), las interpretaciones individuales son irrepetibles, interesantes y válidas; no obstante, la comprensión de un texto es más rica y completa cuando se suman aportaciones de varios lectores.
     
-    .row.align-items-center.my-5(data-aos='fade-left')
+    .row.align-items-center.my-3.ms-2.mt-5(data-aos="fade-left")
       .col-lg-7
         .row.align-items-center.crd1(position="relative")
           .col.titulo-img(style="z-index:1")
-            h3.titulo-text.text-light El intertexto lector
-
+            h3.titulo-text.text-light conclusiones
     .row.justify-content-center.my-3
-      .col-lg-8(data-aos='fade-right')
-        p.justify-content-center.mb-3 El intertexto es la red de relaciones textuales que se activan en el lector cuando interactúa con un texto. Entendido de otra forma, el intertexto es el tejido de referentes anteriores o posteriores al texto. Cuántos más conocimientos y experiencias evoquen el lector más fácilmente podrá valorar y construir una postura crítica en torno al texto. Ejemplo:
-        .cajon.color-acento-botones.p-4.mb-3(style="background: #FCE6CE")
-          p.mt-0.mb-0 En este caso, las referencias que se evocan están relacionadas con cuatro obras distintas: “Cien años de soledad” de Gabriel García Márquez; “Caperucita Roja” en la versión de Charles Perrault o los Hermanos Grimm; “La Biblia” de varios autores; y “La pobre viejecita” de Rafael Pombo.
-      .col-lg-4.col-md-8.mb-3(data-aos='fade-left')
-        img(src="@/assets/curso/temas/tema6/img2.png")
-      .div.background-foto
-        .col-lg-10
-          p.mx-2 Cada uno interpreta el escrito a su modo, a partir de las experiencias personales en relación con las obras. La red intertextual que se activa es fundamental para comprender, valorar y evaluar el texto:
-        .row.align-items-center.p-3.m-auto.justify-content-center(data-aos='flip-up')
-            .bloque-texto-f.color-acento-contenido.pt-4.px-2.mb-5
-              .bloque-texto-f__comillas
-                i.fas.fa-quote-left
-                i.fas.fa-quote-right
-              h4.p-4.text-regular.bloque-texto-f__texto Resulta evidente que solo la posible aportación del lector hace ‘interpretable’ un texto, es decir lo hace comprensible y le atribuye una intencionalidad. Cuando se desconoce la procedencia de las distintas citas o alusiones, la comprensión puede resultar errónea o inadecuada y, en consecuencia, también su interpretación.
-              .bloque-texto-f__autor.mb-3
-                h4.mb-0 Mendoza, 2008a, Cap. 3, párr. 6
-      .row.align-items-center(data-aos='fade-left').d-lg-block.d-none
-        .col-lg-7
-          .row.align-items-center.crd1(position="relative")
-            .col.titulo-img(style="z-index:1")
-              h3.titulo-text.text-light El mundo del autor y el contexto
-      .row.align-items-center.my-5(data-aos="fade-left").d-lg-none.d-block
-        .col
-          .row.align-items-center.crd1-resp
-            .titulo-img-resp(style="z-index:1")
-              h3.titulo-text-resp1(style="color: white") El mundo del autor y el contexto
+      .col-lg-4.my-4
+        p.m-0 El proceso de leer entre líneas y detrás de ellas va más allá de la simple decodificación de palabras; implica una construcción activa del significado a partir de conocimientos previos y experiencias personales.
+        p.m-0 La comprensión efectiva de un texto se logra mediante la formulación de propuestas e inferencias que revelan tanto el sentido explícito como las intenciones ocultas del autor.
+        p.m-0 La utilización de instrumentos de lectura, tales como estructuras gráficas y herramientas de análisis, juega un papel crucial en la extracción de las ideas más relevantes y en el fortalecimiento de las habilidades lectoras.
+      .col-lg-4.col-md-8.my-4.align-content-center
+        img(src="@/assets/curso/temas/tema7/img2.png")
+      .col-lg-4.my-4 
+        p.m-0 La interpretación del texto requiere una valoración integral que considere los propósitos comunicativos del autor y el contexto en el que se sitúa el texto. Este enfoque permite a los lectores desarrollar una postura crítica y una visión particular del mundo, influenciada por su propio contexto histórico y cultural.
+        p.m-0 En definitiva, leer es un proceso dinámico que involucra el lenguaje, el pensamiento y la cultura, donde el significado se construye en la mente del lector y no reside únicamente en el texto. Así, el lector, con sus experiencias y contexto específicos, es quien da vida al contenido y lo enriquece con una comprensión personal y única.
     
-    p.my-3 El texto es el resultado de una serie de acontecimientos que motivan a alguien a escribir algo. Sin duda, los puntos de vista del autor se reflejan en cada uno de los textos que produce. Conocer al autor es una actividad que completa la comprensión, y permite una valoración más amplía y rigurosa del texto. 
 
-    .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5.mt-3(data-aos='flip-up')
-        .bloque-texto-g__img(
-          :style="{'background-image': `url(${require('@/assets/curso/temas/tema6/img3.png')})`}")
-        .bloque-texto-g__texto.p-4
-          p El texto está condicionado por el lugar y momento de su nacimiento. Las personas y sus acciones, los paisajes, los sucesos, la naturaleza toman forma de imágenes, de versos, de ensayos, de historias, de obras que expresan formas de ver el mundo en momentos particulares de la historia. Por tal motivo, un buen lector contextualiza el texto, recuperando información acerca del autor, el tiempo y el lugar que le dieron vida.
-    p.my-4.mb-5 Indagar el mundo del autor implica reconocer el porqué de sus escritos, de sus contenidos, de las actitudes que toma con respecto a lo que dice. También, requiere imaginar o investigar acerca de las circunstancias de producción, de los discursos previos y posteriores, de su edad, sexo, nacionalidad, raza e ideología (Cassany, 2006).    
-    p.fs-5.text-center(style="color: #872141") <strong>¡Esto es leer críticamente! ¡Leer detrás de las líneas!</strong>
 </template>
 
 <script>

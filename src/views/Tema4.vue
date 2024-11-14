@@ -5,34 +5,59 @@
       .titulo-principal.color-acento-contenido
         .titulo-principal__numero
           span 4
-        h1(data-aos='fade-left') Actividad de afianzamiento
-      
-      p Lea el siguiente texto. Luego, resúmalo mediante el instrumento de lectura propuesto.
-      .row.align-items-center.ms-2.my-5(data-aos='fade-left')
-        .col-lg-7
-          .row.align-items-center.crd1(position="relative")
-            .col.titulo-img(style="z-index:1")
-              h3.titulo-text.text-light Deportes extremos
-      .row.justify-content-center
-        .col-lg-8.col-md-12.order-md-2.order-sm-2(data-aos='fade-right') 
-          p Los llamados deportes extremos son todas aquellas actividades o disciplinas en su mayoría ya existentes, pero que, debido a circunstancias especiales o situaciones particulares implícitas como el peligro y la dificultad para realizarlos, se les considera extremos. Por ejemplo, escalar una roca que está a unos centímetros del piso no se considera deporte extremo, en cambio escalar una pared vertical rocosa a cientos de metros sí es una actividad extrema.
-          .cajon.color-secundario.p-4(style="background: #CDE9E9")
-            p.mt-0.mb-0 Este reciente término, que se ha popularizado en la última década del siglo XX, ha sido utilizado dentro del deporte alternativo y por los medios de comunicación, para relacionar sus productos y atraer la atención de quienes están en busca de retos y aventura. Algunos deportes extremos son: paracaidismo, vuelo en parapente, rafting o descenso de ríos, ciclismo de montaña, escalada, salto en bungee, excursionismo, buceo, motonáutica, espeleología (exploración de cuevas), etc. Este tipo de actividades requiere de mayor conocimiento y conciencia que cualquier otra, ya que el riesgo se incrementa por la velocidad, la profundidad o la altura.
-        .col-lg-3.col-md-8.order-md-1.order-sm-1.align-content-center(data-aos='fade-left')
-          img.mb-3(src='@/assets/curso/temas/tema4/img1.png', alt='Imagen decorativa')
+        h1(data-aos='fade-left') La intención comunicativa
+      .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5.mt-3(data-aos='flip-up')
+          .bloque-texto-g__img(
+            :style="{'background-image': `url(${require('@/assets/curso/temas/tema5/img1.png')})`}")
+          .bloque-texto-g__texto.p-4
+            p Los textos se realizan con fines determinados. No existe acto del lenguaje neutro o desinteresado, más aún si se planifica y expresa por medio de la palabra escrita. Por esta razón, una de las últimas actividades en el proceso de lectura es identificar la intención comunicativa del texto.
+      .row.justify-content-center.my-4
+        .col-lg-3.col-md-8
+          p.pt-4.fondo-degradado.text-light.text-center ¿Qué se dice?
+        .col-lg-3.col-md-8
+          p.pt-4.fondo-degradado2.text-light.text-center ¿Qué se quiere decir?
+        .col-lg-3.col-md-8
+          p.fondo-degradado3.text-light.text-center ¿Cuál es la finalidad?<br>¿Para qué se dice?
   
-      .row.justify-content-center.my-3
-        .col-lg-3.col-md-8.order-md-2.order-sm-2.d-lg-block.d-none(data-aos='fade-left')
-          img(src='@/assets/curso/temas/tema4/img2.png', alt='Imagen decorativa')
-        .col-lg-8.order-md-1.order-sm-1(data-aos='fade-right')
-          p.mb-3 Algunos científicos han determinado que esta pasión por el peligro puede tener una raíz fisiológica; o sea que se encuentra relacionada con los niveles de determinadas sustancias, como la adrenalina o ciertos neurotransmisores que hacen que algunas personas sean más audaces que otras. Los jóvenes son quienes más practican estos deportes de aventura, además de todos aquellos que tengan la posibilidad económica; ya que se requiere de recursos para trasladarse a diferentes lugares, implementos, especialistas y empresas encargados de la orientación y el cuidado del deportista.
-          p En todo el mundo hay lugares en donde se pueden practicar estos deportes, como por ejemplo realizar una excursión a las cascadas del rio “Pacuare” en Costa Rica, navegar por las turbulentas aguas del rÍo “The Numbers” en Arkansas, EE.UU, o México, que cuenta con varios estados donde se han creado ya las condiciones necesarias para practicar deportes extremos. Tomado y adaptado de: <a href="https://es.scribd.com/doc/21017134/Texto-Expositivo-Deportes-Extremos">scribd.</a>
-        .col-lg-3.col-md-8.order-md-2.order-sm-2.d-lg-none.d-block.align-content-center(data-aos='fade-left')
-          img(src='@/assets/curso/temas/tema4/img2.png', alt='Imagen decorativa')
-      figure
-      img(src='@/assets/curso/temas/tema4/img3.svg', alt='Imagen que contiene 2 listados para relacionar. Se muestra a continuación.')
-      p.text-center <a href="https://zajuna.sena.edu.co/Repositorio/Complementaria/institution/SENA/CienciasSociales/51250038/Contenido/OVA/actividad_aprendizaje_3/contenidos/index.html">Actividad.</a>
-  </template>
+      p.my-3 Para rastrear los propósitos del texto, el lector debe evaluar el contenido y el sentido de las líneas. El proceso de interpretación de intenciones es complejo, y puede resumirse, de acuerdo con Tusón y Unamundo (1999), de la siguiente forma:
+  
+      .row.justify-content-center.background-foto-3(data-aos='flip-up')
+        .col-lg-8
+          p.mb-3 Usted me dice algo, con una intención. Entonces,<br>a partir de lo que usted me dice yo intento averiguar, con el mínimo coste de procesamiento, qué me quiere decir,<br>al decirme eso de esa manera<br>y sobre esa interpretación,<br>realizada a través de un proceso de inferencias,<br>basabas en mi conocimiento previo<br>sobre usted,<br>sobre sus valores,<br>sobre la situación,<br>sobre el mundo,<br>sobre el código y la variedad que utiliza,<br>y en los indicios contextualizadores<br>que me proporcionan sus palabras,<br>partiendo de las formas verbales y no verbales<br>que ha elegido para hablar conmigo,<br>sabiendo – o creyendo saber – lo que usted sabe<br>sobre mí,<br>sobre mis valores,<br>sobre la situación,<br>sobre el mundo,<br>sobre el código y la variedad que utilizo,<br>sobre lo que, tal vez, yo he dicho antes,<br>etc., etc.<br>establezco una hipótesis:
+          p.mb-0(style="color: #972544") <strong>ME HA QUERIDO DECIR X.</strong>
+          p.mb-3 Y, sobre esa hipótesis,<br>elaboro mi respuesta,<br>que será sometida por usted a un proceso similar de<br>interpretación. (Casmiglia & Tusón, 2001, p.178).
+        .col-lg-3.col-md-8.justify-content-center.align-content-center
+          figure
+            img(src="@/assets/curso/temas/tema5/img2.svg")
+      
+      .row.justify-content-center.my-5
+        .col-lg-5
+          img(src="@/assets/curso/temas/tema5/img9.png")
+          p.text-center Matador. (2010, octubre 28). Nuestra droga legal [Caricatura]. Matador Cartoons.
+        .col-lg-7
+          p Las intenciones comunicativas que se persiguen a través de los textos pueden ser: críticar, convencer, informar, disuadir, expresar inconformismo, etc. Frente a estos propósitos, el lector tiene un rol activo en cuanto valora el texto y los recursos que el autor pone en juego para lograr su cometido.
+          p.my-4(style="color: #972544") <strong>A continuación:</strong>
+          p.mb-0 <strong>¿Qué quiere decir el texto?</strong>
+          p.mb-0 Una lectura inferencial deja entrever los siguientes implícitos:
+          ul.ms-4.mb-2
+            li(style="list-style-type: disc; color: #BD2F56")
+              span(style="color: #12263F") La corrupción tiene forma de hombre, posiblemente político o funcionario público.
+            li(style="list-style-type: disc; color: #BD2F56")
+              span(style="color: #12263F") Los dineros públicos son abundantes, pero no infinitos.
+            li(style="list-style-type: disc; color: #BD2F56")
+              span(style="color: #12263F") Los corruptos hacen uso de los dineros públicos a su antojo.
+  
+          p.mb-0 <strong>¿Cuál es la intención del autor?</strong>
+          p.mb-0 El autor de este texto es matador, un reconocido caricaturista colombiano. Sus propósitos pueden ser:
+          ul.ms-4.mb-2
+            li(style="list-style-type: disc; color: #BD2F56")
+              span(style="color: #12263F")  Denunciar la forma como se despilfarran los dineros públicos.
+            li(style="list-style-type: disc; color: #BD2F56")
+              span(style="color: #12263F") Los dineros públicos son abundantes, pero no infinitos.
+            li(style="list-style-type: disc; color: #BD2F56")
+              span(style="color: #12263F") Expresar inconformismo con respecto a la gestión de los dineros públicos.
+
+</template>
 
 <script>
 export default {

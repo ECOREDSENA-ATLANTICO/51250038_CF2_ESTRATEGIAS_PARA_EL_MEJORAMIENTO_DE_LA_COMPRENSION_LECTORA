@@ -55,24 +55,18 @@ export default {
       {
         nombreRuta: 'tema4',
         numero: '4',
-        titulo: 'Actividad de afianzamiento',
+        titulo: 'La intención comunicativa',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema5',
         numero: '5',
-        titulo: 'La intención comunicativa',
+        titulo: 'Proceso de interpretación',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema6',
         numero: '6',
-        titulo: 'Proceso de interpretación',
-        desarrolloContenidos: true,
-      },
-      {
-        nombreRuta: 'tema7',
-        numero: '7',
         titulo: 'Construyendo una postura crítica',
         desarrolloContenidos: true,
       },

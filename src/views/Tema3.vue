@@ -76,7 +76,7 @@
           figure
             img(src='@/assets/curso/temas/tema3/img3.png', alt='Imagen decorativa')
   
-      p.my-3.text-center <strong>Ejemplo de mapa conceptual</strong>
+      p.my-3.text-center <strong>Figura 1.</strong> Ejemplo de mapa conceptual
   
       figure
         img(data-aos="flip-up")(src='@/assets/curso/temas/tema3/img4.svg', alt='Imagen decorativa')
@@ -163,7 +163,7 @@
           img(src='@/assets/curso/temas/tema3/img8.png', alt='Imagen decorativa')
         .row.justify-content-center
           .col-lg-10.col-md-8.my-3
-            p Figura 1. Ejemplo de mapa mental
+            p.text-center <b>Figura 2.</b> Ejemplo de mapa mental
             img(data-aos="flip-up")(src='@/assets/curso/temas/tema3/img9.svg', alt='se presenta unaestructura gráfica que refleja las ideas principales entorno a un tema, mediante relaciones y combinacionesde formas, colores y dibujos.')
       
       .row.align-items-center.my-5.ms-2(data-aos="fade-left").d-lg-block.d-none
@@ -211,7 +211,7 @@
       
       .row.background-foto-3.justify-content-center.p-4
         .col-lg-10.col-md-8
-          p.mb-4.text-center <strong>Ejemplo de estructura informativa de una noticia.</strong>
+          p.mb-4.text-center <strong>Figura 3. </strong>Ejemplo de estructura informativa de una noticia.
           img(data-aos="flip-up")(src='@/assets/curso/temas/tema3/img12.svg', alt='Imagen decorativa')
       
       .row.align-items-center.my-5.ms-2(data-aos="fade-left")
@@ -300,7 +300,7 @@
             p.mb-0 Estrategias para el mejoramiento de la comprensión lectora.
             p Mientras lee: descubriendo lugares
       
-      p.text-center.my-3 <strong>Ejemplo de red argumentativa:</strong>
+      p.text-center.my-3 <strong>Figura 4. </strong>Ejemplo de red argumentativa
       
       figure
         img(data-aos='flip-up')(src='@/assets/curso/temas/tema3/img13.svg', alt='Imagen decorativa')

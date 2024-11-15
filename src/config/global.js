@@ -172,7 +172,8 @@ export default {
     },
     {
       referencia: 'Lakoff & Johnson, 1980, p. Metaphors We Live.',
-      link: '',
+      link:
+        'https://www.textosenlinea.com.ar/libros/Lakoff%20y%20Johnson%20-%20Metaphors%20We%20Live%20By%20-%201980.pdfhttps://www.textosenlinea.com.ar/libros/Lakoff%20y%20Johnson%20-%20Metaphors%20We%20Live%20By%20-%201980.pdf',
     },
     {
       referencia:
